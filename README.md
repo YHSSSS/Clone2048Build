@@ -1,0 +1,4 @@
+# Clone2048Build
+
+由于不知道怎么把apk文件上传到Clone2048的repository上所以另开了一个新的repository专门存放此项目的不同版本。
+直接下载apk并在安卓手机上运行。
